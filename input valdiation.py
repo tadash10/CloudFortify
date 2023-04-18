@@ -19,6 +19,6 @@ def menu():
         except ValueError:
             print("Invalid input. Please enter a number.")
 
-In this updated version of the menu function, we've added a try-except block to catch any ValueError exceptions that might be raised if the user inputs a non-numeric value. We've also added a loop that continues to prompt the user for input until a valid option is chosen.
+#In this updated version of the menu function, we've added a try-except block to catch any ValueError exceptions that might be raised if the user inputs a non-numeric value. We've also added a loop that continues to prompt the user for input until a valid option is chosen.
 
-You can apply similar input validation to any other user input in the script to prevent unintended behavior or malicious input.
+#You can apply similar input validation to any other user input in the script to prevent unintended behavior or malicious input.
