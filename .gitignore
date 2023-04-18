@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+env/
+*.pyc
+
+# Ignore logs
+logs/
+
+# Ignore configuration files
+*.conf
+
+# Ignore credentials
+*.key
+*.pem
+
+# Ignore generated files
+*.log
+*.out
+*.swp
+
+# Ignore sensitive information
+secrets/
